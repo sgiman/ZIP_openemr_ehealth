@@ -1,7 +1,7 @@
 # openemr_ehealth
-Integration Ehealth Ukraine & OpenEMR
+Intergation Ehealth Ukraine & OpenEMR (admin module) #
 -------
-Intergation Ehealth Ukraine & OpenEMR (admin module)
+
 
 This DEMO implements the following functionality (taking into account the new V9-requirements "Order of the NSZU dated 04.08.2020 No. 187 On approval of technical requirements for MIS"):
 
