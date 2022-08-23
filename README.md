@@ -21,3 +21,5 @@ This DEMO implements the following functionality (taking into account the new V9
 
 
 **HTML/CSS, JS (jquery/ajax, knockout), PHP/MySQL**
+
+#### sgiman @ 2020-2022
