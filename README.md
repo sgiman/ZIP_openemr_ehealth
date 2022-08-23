@@ -19,6 +19,7 @@ This DEMO implements the following functionality (taking into account the new V9
 
 ✓ use of MySQL database to store EHEALTH data and to synchronize with OpenEMR data
 
+---------------------------------------------------------------------------------------------
 
 **HTML/CSS, JS (jquery/ajax, knockout), PHP/MySQL**
 
