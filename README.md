@@ -18,3 +18,5 @@ This DEMO implements the following functionality (taking into account the new V9
 ✓ full automation of auth 2.0 connection to the EHEALTH database
 
 ✓ use of MySQL database to store EHEALTH data and to synchronize with OpenEMR data
+---
+PHP,MYSQL,JS
